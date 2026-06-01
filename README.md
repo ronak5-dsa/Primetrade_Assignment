@@ -89,3 +89,5 @@ This indicates that trading success is not evenly distributed and that a relativ
 The analysis demonstrates a clear relationship between market sentiment and trader performance. Extreme Greed periods were associated with the highest average profitability and win rates, while Fear periods generated the greatest overall trading activity and cumulative profits.
 
 The findings also suggest that contrarian behavior—buying during fearful periods and selling during greedy periods—was associated with stronger trading outcomes. These insights may help traders better understand how market psychology influences trading performance and decision-making.
+
+Note: If the notebook preview does not render on GitHub, please download `analysis.ipynb` and open it in Jupyter Notebook or VS Code.
